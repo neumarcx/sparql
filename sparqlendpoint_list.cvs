@@ -1,9 +1,11 @@
 SPARQL endpoints
+http://aemet.linkeddata.es/sparql
 http://agrovoc.uniroma2.it/sparql
 http://ariadne-registry.dcu.gr:8890/sparql
 http://bbc.openlinksw.com/sparql
 http://bfs.270a.info/sparql
 http://bio2rdf.org/sparql
+http://biolit.rkbexplorer.com/sparql
 http://bioportal.bio2rdf.org/sparql/
 http://bnb.data.bl.uk/sparql
 http://caligraph.org/sparql
@@ -142,6 +144,7 @@ https://sparql.orthodb.org/sparql
 https://sparql.rhea-db.org/sparql
 https://sparql.uniprot.org/sparql
 https://tora.entryscape.net/snorql
+http://visualdataweb.infor.uva.es/sparql
 https://vocab.nerc.ac.uk/sparql/
 https://vocabs.ands.org.au/repository/api/sparql/
 https://www.ebi.ac.uk/rdf/services/sparql
