@@ -17,6 +17,7 @@ http://data.allie.dbcls.jp/sparql
 http://data.americanartcollaborative.org/sparql
 http://data.archaeologydataservice.ac.uk/sparql/repositories/archives
 http://data.archiveshub.ac.uk/sparql
+http://data.bnf.fr/sparql
 http://data.bnf.fr/sparql/
 http://data.cervantesvirtual.com/openrdf-sesame/repositories/data
 http://data.digitalculture.tw/taichung/sparql
@@ -68,6 +69,7 @@ http://rdf.pathwaycommons.org/sparql/
 http://registry.it.csiro.au/system/query
 http://semantic.eea.europa.eu/sparql
 http://sparql.archives-ouvertes.fr/sparql
+http://sparql.bioontology.org/
 http://sparql.datao.net/sparql
 http://sparql.europeana.eu
 http://sparql.europeana.eu/
@@ -79,6 +81,7 @@ http://sparql.wikipathways.org/
 http://srvgal78.deri.ie:8004/sparql/
 http://statistics.data.gov.uk/sparql
 http://uriburner.com/sparql
+http://visualdataweb.infor.uva.es/sparql
 http://vocab.getty.edu/sparql
 http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for
 http://vocabs.ands.org.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_2018
@@ -110,6 +113,7 @@ https://data.pdok.nl/sparql
 https://datos-abertos.galiciana.gal/pt/sparql
 https://datos.gob.es/en/sparql
 https://edh-www.adw.uni-heidelberg.de/data/sparql
+https://go3.opendata.u-psud.fr/sparql
 https://hub-rnsr.idref.fr/sparql
 https://id.ndl.go.jp/auth/ndla/sparql
 https://identifiers.org/services/sparql
@@ -127,6 +131,7 @@ https://lod.abes.fr/sparql
 https://lov.linkeddata.es/dataset/lov/sparql
 https://opendata.aragon.es/sparql
 https://opendata1.opendata.u-psud.fr/sparql
+https://opendata1.opendata.u-psud.fr/sparql/
 https://openpark.jp/sparql
 https://publications.europa.eu/en/advanced-sparql-query-editor
 https://query.wikidata.org/sparql
@@ -144,7 +149,6 @@ https://sparql.orthodb.org/sparql
 https://sparql.rhea-db.org/sparql
 https://sparql.uniprot.org/sparql
 https://tora.entryscape.net/snorql
-http://visualdataweb.infor.uva.es/sparql
 https://vocab.nerc.ac.uk/sparql/
 https://vocabs.ands.org.au/repository/api/sparql/
 https://www.ebi.ac.uk/rdf/services/sparql
