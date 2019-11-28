@@ -1,0 +1,30 @@
+80	HTTP/1.1 406 Unacceptable                                      
+68	HTTP/1.1 200 OK                                                
+45	HTTP/1.1 301 Moved Permanently                                 
+9	HTTP/1.1 406 Not Acceptable                                    
+8	HTTP/1.1 404 Not Found                                         
+8	HTTP/1.1 500 Internal Server Error                             
+6	HTTP/2 406
+5	HTTP/1.1 400 Bad Request                                       
+5	HTTP/1.1 405 HTTP method not allowed: Not a GET or POST request
+5	HTTP/1.1 503 Service Temporarily Unavailable                   
+4	HTTP/1.1 200                                                   
+3	HTTP/1.1 405 Method Not Allowed                                
+3	HTTP/1.1 406                                                   
+3	HTTP/1.1 503 Service Unavailable                               
+3	HTTP/2 404                                                     
+2	HTTP/1.0 301 Moved Permanently                                 
+2	HTTP/1.1 302 Found                                             
+2	HTTP/1.1 404                                                   
+2	HTTP/1.1 500 Server Error                                      
+2	HTTP/1.1 502 Bad Gateway                                       
+2	HTTP/1.1 502 Proxy Error                                       
+1	HTTP/1.1 301 TLS Redirect                                      
+1	HTTP/1.1 400                                                   
+1	HTTP/1.1 404 Resource Not Found                                
+1	HTTP/1.1 406 406                                               
+1	HTTP/1.1 406 Not acceptable                                    
+1	HTTP/2 200                                                     
+1	HTTP/2 302                                                     
+1	HTTP/2 400                                                     
+1	HTTP/2 403                                                     
