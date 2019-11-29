@@ -266,8 +266,7 @@ http://lofd.tw.rpi.edu/sparql
 http://logd.tw.rpi.edu/sparql
 http://lov.okfn.org/dataset/lov/sparql
 http://lov.okfn.org/endpoint/lov
-http://lsr.bio2rdf.org/sparql
-http://lsr.bio2rdf.org/sparql/
+https://lsr.bio2rdf.org/sparql
 http://ma-graph.org/sparql
 http://meducator.open.ac.uk/resourcesrestapi/rest/meducator/sparql
 http://meharry.eagle-i.net/sparqler/sparql
