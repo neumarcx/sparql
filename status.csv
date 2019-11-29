@@ -1,13 +1,10 @@
-#Endpoint Status 
+#Endpoint status Fri Nov 29 15:23:00 GMT 2019
 http://13.125.246.132/sparql,
 http://156.35.31.156/sparql,
 http://156.35.82.103/sparql, HTTP/1.1 404 Not Found
 http://185.94.71.25:62020/snorql/,
-
 http://202.45.139.84:10035/catalogs/fao/repositories/agris,
-
 http://202.73.13.50:55824/catalogs/performance/repositories/jita,
-
 http://212.81.220.68:2020/elviajero,
 http://abs.270a.info/sparql,
 http://acm.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
@@ -33,61 +30,33 @@ http://api.kasabi.com/dataset/sanskrit-english-lexicon/apis/sparql, HTTP/1.1 200
 http://api.kasabi.com/dataset/un-hazardous-material-numbers/apis/sparql, HTTP/1.1 200 OK
 http://api.kasabi.com/dataset/yahoo-geoplanet/apis/sparql, HTTP/1.1 200 OK
 http://api.talis.com/stores/airports/services/sparql,
-
 http://api.talis.com/stores/bbc-backstage/services/sparql,
-
 http://api.talis.com/stores/bbc-wildlife/services/sparql,
-
 http://api.talis.com/stores/climb/services/sparql,
-
 http://api.talis.com/stores/datagovuk/services/sparql,
-
 http://api.talis.com/stores/elections/services/sparql,
-
 http://api.talis.com/stores/eumida/services/sparql,
-
 http://api.talis.com/stores/eupmedia/services/sparql,
-
 http://api.talis.com/stores/eurobarometer/services/sparql,
-
 http://api.talis.com/stores/eutc-productions/services/sparql,
-
 http://api.talis.com/stores/gunnbib-digitalmanuskripter/sparql,
-
 http://api.talis.com/stores/jgoodwin-genealogy/services/sparql,
-
 http://api.talis.com/stores/massobservation/services/sparql,
-
 http://api.talis.com/stores/metoffice/services/sparql,
-
 http://api.talis.com/stores/moseley/services/sparql,
-
 http://api.talis.com/stores/musicbrainz/services/sparql,
-
 http://api.talis.com/stores/nvd/services/sparql,
-
 http://api.talis.com/stores/openlibrary/services/sparql,
-
 http://api.talis.com/stores/ordnance-survey/services/sparql,
-
 http://api.talis.com/stores/pbac/services/sparql,
-
 http://api.talis.com/stores/pokedex/services/sparql,
-
 http://api.talis.com/stores/productdb/services/sparql,
-
 http://api.talis.com/stores/rsinger-dev4/services/sparql,
-
 http://api.talis.com/stores/schemapedia/services/sparql,
-
 http://api.talis.com/stores/smcjournals/services/sparql,
-
 http://api.talis.com/stores/theviewfrom/services/sparql,
-
 http://api.talis.com/stores/trafficscotland/services/sparql,
-
 http://api.talis.com/stores/whoiswho/services/sparql,
-
 http://apps.morelab.deusto.es/labman/sparql, HTTP/1.1 406 Unacceptable
 http://apps.morelab.deusto.es/labman/sparql/, HTTP/1.1 406 Unacceptable
 http://ariadne-registry.dcu.gr:8890/sparql, HTTP/1.1 406 Unacceptable
