@@ -64,14 +64,10 @@ http://bbc.openlinksw.com/sparql
 http://bfs.270a.info/sparql
 http://bio2rdf.org/sparql
 http://biolit.rkbexplorer.com/sparql/
-http://biomodels.bio2rdf.org/sparql
-http://biomodels.bio2rdf.org/sparql/
-http://bioportal.bio2rdf.org/sparql
-http://bioportal.bio2rdf.org/sparql/
+https://bioportal.bio2rdf.org/sparql/
 https://biordf.net/sparql
 http://bis.270a.info/sparql
-http://bnb.data.bl.uk/sparql
-http://bnb.data.bl.uk/sparql/
+https://bnb.data.bl.uk:443/sparql
 http://budapest.rkbexplorer.com/sparql/
 http://caligraph.org/sparql
 http://canlink.library.ualberta.ca/sparql
