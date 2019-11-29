@@ -13,7 +13,6 @@ http://aemet.linkeddata.es/sparql/, HTTP/1.1 406 Unacceptable
 http://affymetrix.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
 http://affymetrix.bio2rdf.org/sparql/, HTTP/1.1 301 Moved Permanently
 http://agalpha.mathbiol.org/repositories/tcga,
-http://agencies.publicdata.eu/sparql, HTTP/1.1 301 Moved Permanently
 http://agrinepaldata.com/sparql,
 http://agrovoc.uniroma2.it/sparql, HTTP/1.1 405 HTTP method not allowed: Not a GET or POST request
 http://agrovoc.uniroma2.it:3030/agrovoc/sparql, HTTP/1.1 405 HTTP method not allowed: Not a GET or POST request
