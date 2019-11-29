@@ -66,8 +66,7 @@ http://data.archiveshub.ac.uk/sparql/
 http://data.bib.uni-mannheim.de/sparql
 http://data.bibliotheken.nl/sparql
 http://data.bibsys.no/data/query_authority.html
-http://data.bnf.fr/sparql
-http://data.bnf.fr/sparql/
+https://data.bnf.fr/sparql
 http://data.cervantesvirtual.com/openrdf-sesame/repositories/data
 http://data.cnr.it/sparql-proxy/
 http://data.colinda.org/endpoint.php
