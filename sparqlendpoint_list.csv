@@ -31,12 +31,9 @@ http://budapest.rkbexplorer.com/sparql/
 http://caligraph.org/sparql
 http://canlink.library.ualberta.ca/sparql
 http://cau.eagle-i.net/sparqler/sparql
-http://cb.semsol.org/sparql
 http://ccny-cuny.eagle-i.net/sparqler/sparql
 http://cdrewu.eagle-i.net/sparqler/sparql
-http://chembl.bio2rdf.org/sparql
 http://citeseer.rkbexplorer.com/sparql/
-http://ckan.eurohelp.es:8890/sparql
 https://clinicaltrials.bio2rdf.org/sparql
 http://www.colinda.org/endpoint.php
 http://collection.britishart.yale.edu/openrdf-sesame/repositories/ycba
@@ -44,7 +41,6 @@ http://collection.britishart.yale.edu/sparql
 http://collection.britishart.yale.edu/sparql/
 http://collection.britishmuseum.org/sparql
 http://collection.britishmuseum.org/Sparql
-http://commons.dbpedia.org/sparql
 http://cordis.rkbexplorer.com/sparql/
 http://core.kmi.open.ac.uk/squery
 http://courseware.rkbexplorer.com/sparql/
@@ -60,7 +56,6 @@ http://cultura.linkeddata.es/sparql/
 http://curriculum.rkbexplorer.com/sparql/
 http://darmstadt.rkbexplorer.com/sparql/
 http://dartmouth.eagle-i.net/sparqler/sparql
-http://data-gov.ie/sparql
 http://data.aalto.fi/sparql/
 http://data.allie.dbcls.jp/sparql
 http://data.allie.dbcls.jp/sparql/
@@ -69,7 +64,6 @@ http://data.archaeologydataservice.ac.uk/sparql/repositories/archives
 http://data.archiveshub.ac.uk/sparql
 http://data.archiveshub.ac.uk/sparql/
 http://data.bib.uni-mannheim.de/sparql
-http://data.bibbase.org:2020/sparql
 http://data.bibliotheken.nl/sparql
 http://data.bibsys.no/data/query_authority.html
 http://data.bnf.fr/sparql
@@ -77,7 +71,6 @@ http://data.bnf.fr/sparql/
 http://data.cervantesvirtual.com/openrdf-sesame/repositories/data
 http://data.cnr.it/sparql-proxy/
 http://data.colinda.org/endpoint.php
-http://data.digitalculture.tw/taichung/sparql
 http://data.dive.beeldengeluid.nl/sparql/
 http://data.doremus.org/sparql
 http://data.e-stat.go.jp/lod/sparql/
