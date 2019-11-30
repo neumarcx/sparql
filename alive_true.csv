@@ -1,6 +1,6 @@
 #SPARQL Endpoint
+
 http://aemet.linkeddata.es/sparql
-http://aemet.linkeddata.es/sparql/
 http://agrovoc.uniroma2.it/sparql
 http://agrovoc.uniroma2.it:3030/agrovoc/sparql
 http://alaska.eagle-i.net/sparqler/sparql
@@ -8,16 +8,11 @@ http://apps.morelab.deusto.es/labman/sparql
 http://apps.morelab.deusto.es/labman/sparql/
 http://ariadne-registry.dcu.gr:8890/sparql
 http://bbc.openlinksw.com/sparql
-http://bio2rdf.org/sparql
 http://biordf.net/sparql
-http://biordf.net/sparql/
-http://bnb.data.bl.uk/sparql
-http://bnb.data.bl.uk/sparql/
 http://caligraph.org/sparql
 http://cau.eagle-i.net/sparqler/sparql
 http://ccny-cuny.eagle-i.net/sparqler/sparql
 http://cdrewu.eagle-i.net/sparqler/sparql
-http://cr.eionet.europa.eu/sparql
 http://crtm.linkeddata.es/sparql/
 http://cultura.linkeddata.es/sparql
 http://cultura.linkeddata.es/sparql/
@@ -26,14 +21,15 @@ http://data.allie.dbcls.jp/sparql/
 http://data.americanartcollaborative.org/sparql
 http://data.archaeologydataservice.ac.uk/sparql/repositories/archives
 http://data.bibliotheken.nl/sparql
-http://data.bnf.fr/sparql
 http://data.cervantesvirtual.com/openrdf-sesame/repositories/data
 http://data.cnr.it/sparql-proxy/
 http://data.colinda.org/endpoint.php
 http://data.doremus.org/sparql
+http://data.fondazionezeri.unibo.it/sparql
 http://data.hnm.hu/sparql
 http://data.legilux.public.lu/sparql
 http://data.logainm.ie/sparql/
+http://data.nationallibrary.fi/bib/sparql
 http://data.nobelprize.org/sparql
 http://data.open.ac.uk/query
 http://data.ordnancesurvey.co.uk/datasets/os-linked-data/apis/sparql
@@ -48,7 +44,6 @@ http://datos.bcn.cl/sparql
 http://datos.bne.es/sparql
 http://datos.bne.es/sparql/
 http://dbkwik.webdatacommons.org/sparql
-http://dblp.l3s.de/d2r/sparql
 http://dbpedia-live.openlinksw.com/sparql
 http://dbpedia.org/sparql
 http://dbtune.org/bbc/peel/sparql/
@@ -63,8 +58,6 @@ http://dutchshipsandsailors.nl/data/sparql/
 http://edan.si.edu/saam/sparql
 http://en.openei.org/sparql
 http://environment.data.gov.uk/sparql/bwq/query
-http://es.dbpedia.org/sparql
-http://es.dbpedia.org/sparql/
 http://eu.dbpedia.org/sparql
 http://eu.dbpedia.org/sparql/
 http://eventmedia.eurecom.fr/sparql
@@ -147,7 +140,6 @@ http://serendipity.utpl.edu.ec/lod/sparql
 http://sparql.archives-ouvertes.fr/sparql
 http://sparql.data.southampton.ac.uk/
 http://sparql.datao.net/sparql
-http://sparql.europeana.eu
 http://sparql.europeana.eu/
 http://sparql.kupkb.org/sparql
 http://sparql.lynx-project.eu/
@@ -176,7 +168,9 @@ http://vocabulary.semantic-web.at/PoolParty/sparql/OpenData
 http://vocabulary.semantic-web.at/PoolParty/sparql/semweb
 http://webenemasuno.linkeddata.es/sparql
 http://webisa.webdatacommons.org/sparql
+http://wifo5-03.informatik.uni-mannheim.de/drugbank/sparql
 http://wikidata.demo.openlinksw.com/sparql
+http://www.colinda.org/endpoint.php
 http://www.ebi.ac.uk/rdf/services/atlas/sparql
 http://www.genome.jp/sparql/linkdb
 http://www.icane.es/opendata/sparql
@@ -191,12 +185,17 @@ http://zbw.eu/beta/sparql/stw/query
 https://api.nextprot.org/sparql
 https://api.parliament.uk/sparql
 https://babelnet.org/sparql/
+https://bio2rdf.org/sparql
+https://bnb.data.bl.uk/sparql
 https://colil.dbcls.jp/sparql
+https://cr.eionet.europa.eu/sparql
+https://data.bnf.fr/sparql
 https://data.cssz.cz/sparql
 https://data.gesis.org/claimskg/sparql
 https://data.gov.cz/sparql
 https://data.idref.fr/sparql
 https://datos-abertos.galiciana.gal/pt/sparql
+https://dblp.l3s.de/d2r/sparql
 https://hub-rnsr.idref.fr/sparql
 https://id.ndl.go.jp/auth/ndla/sparql
 https://idsm.elixir-czech.cz/sparql/endpoint/idsm
@@ -216,12 +215,13 @@ https://query.wikidata.org/sparql
 https://rdf.metanetx.org/sparql
 https://ruian.linked.opendata.cz/sparql
 https://semantic.eea.europa.eu/sparql
+https://sophox.org/sparql
+https://sparql.crssnky.xyz/spql/imas/query
 https://sparql.dl.itc.u-tokyo.ac.jp/
 https://sparql.geo.admin.ch/sparql
 https://sparql.lri.fr/sparql
 https://sparql.nextprot.org/
 https://sparql.omabrowser.org/sparql
-https://sparql.orthodb.org/sparql
 https://sparql.rhea-db.org/sparql
 https://sparql.uniprot.org/sparql
 https://www.ebi.ac.uk/rdf/services/biomodels/sparql
@@ -232,4 +232,3 @@ https://www.europeandataportal.eu/sparql
 https://www.foodie-cloud.org/sparql
 https://www.nakala.fr/sparql
 https://www.orpha.net/sparql
-
