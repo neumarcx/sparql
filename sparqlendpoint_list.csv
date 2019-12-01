@@ -410,6 +410,8 @@ http://wifo5-03.informatik.uni-mannheim.de/stitch/sparql
 http://xula.eagle-i.net/sparqler/sparql
 http://zbw.eu/beta/sparql/gnd/query
 http://zbw.eu/beta/sparql/stw/query
+http://zbw.eu/beta/sparql/econ_pers/query
+http://zbw.eu/beta/sparql/econ_corp/query
 http://zhishi.me/sparql
 https://3cixty.eurecom.fr/sparql
 https://api.aucklandmuseum.com/sparql
