@@ -126,9 +126,7 @@ http://epsrc.rkbexplorer.com/sparql
 http://epsrc.rkbexplorer.com/sparql/
 http://era.rkbexplorer.com/sparql/
 http://es.dbpedia.org/sparql
-http://es.dbpedia.org/sparql/
-http://eu.dbpedia.org/sparql
-http://eu.dbpedia.org/sparql/
+https://eu.dbpedia.org/sparql
 http://eurecom.rkbexplorer.com/sparql/
 http://europeana.ontotext.com/sparql
 http://eurostat.linked-statistics.org/sparql
@@ -139,8 +137,6 @@ http://factforge.net/repositories/ff-news
 http://factforge.net/sparql/
 http://famu.eagle-i.net/sparqler/sparql
 http://fintrans.publicdata.eu/sparql
-http://foodpedia.tk/sparql
-http://foodpedia.tk/sparql/
 http://foreign.rkbexplorer.com/sparql/
 http://fr.dbpedia.org/sparql
 http://ft.rkbexplorer.com/sparql/
