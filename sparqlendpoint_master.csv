@@ -6,7 +6,7 @@ http://alaska.eagle-i.net/sparqler/sparql
 http://apps.morelab.deusto.es/labman/sparql
 http://apps.morelab.deusto.es/labman/sparql/
 http://ariadne-registry.dcu.gr:8890/sparql
-http://aseg.cs.concordia.ca/secold/sparqlendpoint
+#http://aseg.cs.concordia.ca/secold/sparqlendpoint
 http://bbc.openlinksw.com/sparql
 http://biordf.net/sparql
 http://caligraph.org/sparql
