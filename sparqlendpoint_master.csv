@@ -1,5 +1,5 @@
 #SPARQL endpoints
-http://acm.rkbexplorer.com/sparql/
+#http://acm.rkbexplorer.com/sparql/
 http://aemet.linkeddata.es/sparql
 http://agrovoc.uniroma2.it/sparql
 http://agrovoc.uniroma2.it:3030/agrovoc/sparql
