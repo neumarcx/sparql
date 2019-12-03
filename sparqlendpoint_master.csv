@@ -10,7 +10,7 @@ http://ariadne-registry.dcu.gr:8890/sparql
 http://bbc.openlinksw.com/sparql
 http://biordf.net/sparql
 http://caligraph.org/sparql
-http://canlink.library.ualberta.ca/sparql
+#http://canlink.library.ualberta.ca/sparql
 http://cau.eagle-i.net/sparqler/sparql
 http://ccny-cuny.eagle-i.net/sparqler/sparql
 http://cdrewu.eagle-i.net/sparqler/sparql
