@@ -292,10 +292,10 @@ http://vocabulary.semantic-web.at/PoolParty/sparql/OpenData
 http://vocabulary.semantic-web.at/PoolParty/sparql/semweb
 http://webenemasuno.linkeddata.es/sparql
 http://webisa.webdatacommons.org/sparql
-http://wifo5-03.informatik.uni-mannheim.de/cordis/sparql
-http://wifo5-03.informatik.uni-mannheim.de/dailymed/sparql
+#http://wifo5-03.informatik.uni-mannheim.de/cordis/sparql
+#http://wifo5-03.informatik.uni-mannheim.de/dailymed/sparql
 http://wifo5-03.informatik.uni-mannheim.de/dblp/sparql
-http://wifo5-03.informatik.uni-mannheim.de/diseasome/sparql
+#http://wifo5-03.informatik.uni-mannheim.de/diseasome/sparql
 http://wifo5-03.informatik.uni-mannheim.de/drugbank/sparql
 http://wifo5-03.informatik.uni-mannheim.de/eccompetition/sparql
 http://wifo5-03.informatik.uni-mannheim.de/euraxess/sparql
