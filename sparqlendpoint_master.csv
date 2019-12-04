@@ -371,7 +371,7 @@ https://joinup.ec.europa.eu/sparql/
 https://jpsearch.go.jp/rdf/sparql
 https://landportal.org/sparql
 https://ldf.fi/mufi/sparql
-https://lexinfo.net/corpora/alpino/query.php
+#https://lexinfo.net/corpora/alpino/query.php
 https://lindas-data.ch/sparql
 https://linked.opendata.cz/sparql
 #https://linkeddata1.calcul.u-psud.fr/sparql
