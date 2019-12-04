@@ -14,9 +14,8 @@ http://caligraph.org/sparql
 http://cau.eagle-i.net/sparqler/sparql
 http://ccny-cuny.eagle-i.net/sparqler/sparql
 http://cdrewu.eagle-i.net/sparqler/sparql
-http://collection.britishart.yale.edu/openrdf-sesame/repositories/ycba
-http://collection.britishart.yale.edu/sparql
-http://collection.britishart.yale.edu/sparql/
+#http://collection.britishart.yale.edu/openrdf-sesame/repositories/ycba
+#http://collection.britishart.yale.edu/sparql
 http://collection.britishmuseum.org/Sparql
 http://collection.britishmuseum.org/sparql
 http://core.kmi.open.ac.uk/squery
