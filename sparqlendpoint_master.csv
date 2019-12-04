@@ -402,7 +402,7 @@ https://sparql.omabrowser.org/sparql
 https://sparql.orthodb.org/sparql
 https://sparql.rhea-db.org/sparql
 https://sparql.uniprot.org/sparql
-https://tora.entryscape.net/snorql/
+#https://tora.entryscape.net/snorql/
 https://vocab.nerc.ac.uk/sparql/sparql
 #https://vocabs.ands.org.au/repository/api/sparql/
 https://www.ebi.ac.uk/rdf/services/sparql
