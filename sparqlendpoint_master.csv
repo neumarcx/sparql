@@ -114,8 +114,6 @@ http://greek-lod.auth.gr/police/sparql
 http://greek-lod.math.auth.gr/kalikratis/sparql
 http://harvard.eagle-i.net/sparqler/sparql
 http://hawaii.eagle-i.net/sparqler/sparql
-http://heritagedata.org/live/sparql
-http://heritagedata.org/live/sparql/
 http://hgnc.bio2rdf.org/sparql
 http://hgnc.bio2rdf.org/sparql/
 http://homologene.bio2rdf.org/sparql
@@ -357,6 +355,7 @@ https://en.openei.org/sparql
 https://eu.dbpedia.org/sparql
 https://geosparql.demo.openlinksw.com/sparql
 https://go3.opendata.u-psud.fr/sparql
+https//heritagedata.org/live/sparql
 https://hub-rnsr.idref.fr/sparql
 https://id.ndl.go.jp/auth/ndla/
 https://id.ndl.go.jp/auth/ndlsh/
