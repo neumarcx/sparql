@@ -52,7 +52,7 @@ http://data.persee.fr/explorer/sparql-endpoint/
 http://data.persee.fr/sparql
 http://data.plan4all.eu/sparql
 http://data.rism.info/sparql
-http://data.szepmuveszeti.hu/sparql
+#http://data.szepmuveszeti.hu/sparql
 http://data.utpl.edu.ec/ecuadorresearch/lod/sparql
 http://data.utpl.edu.ec/utpl/lod/sparql
 http://dati.beniculturali.it/sparql
