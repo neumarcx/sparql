@@ -18,7 +18,7 @@ http://ctd.bio2rdf.org/sparql
 http://ctd.bio2rdf.org/sparql/
 http://cultura.linkeddata.es/sparql
 http://cultura.linkeddata.es/sparql/
-http://dartmouth.eagle-i.net/sparqler/sparql
+#http://dartmouth.eagle-i.net/sparqler/sparql
 http://data.aalto.fi/sparql/
 http://data.allie.dbcls.jp/sparql
 http://data.allie.dbcls.jp/sparql/
@@ -44,7 +44,7 @@ http://data.logainm.ie/sparql/
 http://data.mimo-db.eu/sparql
 http://data.nationallibrary.fi/bib/sparql
 http://data.nobelprize.org/sparql
-http://data.odw.tw/sparql
+http://data.odw.tw/sparql<
 http://data.open.ac.uk/query
 http://data.ordnancesurvey.co.uk/datasets/os-linked-data/apis/sparql
 http://data.ox.ac.uk/sparql/
