@@ -230,7 +230,6 @@ http://resource.geolba.ac.at/PoolParty/sparql/GeologicUnit
 http://resource.geolba.ac.at/PoolParty/sparql/lithology
 http://resource.geolba.ac.at/PoolParty/sparql/tectonicunit
 http://revyu.com/sparql
-http://semantic.eea.europa.eu/sparql
 http://semanticweb.cs.vu.nl/dss/sparql/
 http://semanticweb.cs.vu.nl/iati/sparql/
 http://semanticweb.cs.vu.nl/verrijktkoninkrijk/sparql/
@@ -354,7 +353,6 @@ https://dbmi-icode-01.dbmi.pitt.edu/dikb/sparql
 https://dbsnp.bio2rdf.org/sparql
 https://dbsnp.bio2rdf.org/sparql/
 https://ebi.identifiers.org/services/sparql
-
 https://en.openei.org/sparql
 https://eu.dbpedia.org/sparql
 https://geosparql.demo.openlinksw.com/sparql
@@ -388,8 +386,8 @@ https://query.wikidata.org/sparql
 https://rdf.insee.fr/sparql
 https://rdf.metanetx.org/sparql
 https://ruian.linked.opendata.cz/sparql
-https://semantic.eea.europa.eu/sparql
 https://xn--slovnk-7va.gov.cz/sparql
+https://semantic.eea.europa.eu/sparql
 https://sophox.org/sparql
 https://sparql.crssnky.xyz/spql/imas/query
 https://sparql.dl.itc.u-tokyo.ac.jp/
@@ -461,4 +459,3 @@ https://www.orpha.net/sparql
 #http://webscience.rkbexplorer.com/sparql
 #http://wiki.rkbexplorer.com/sparql/
 #http://wordnet.rkbexplorer.com/sparql/
-
