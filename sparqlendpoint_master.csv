@@ -13,8 +13,6 @@ http://cau.eagle-i.net/sparqler/sparql
 http://ccny-cuny.eagle-i.net/sparqler/sparql
 http://cdrewu.eagle-i.net/sparqler/sparql
 http://crtm.linkeddata.es/sparql/
-http://ctd.bio2rdf.org/sparql
-http://ctd.bio2rdf.org/sparql/
 http://cultura.linkeddata.es/sparql
 http://cultura.linkeddata.es/sparql/
 #http://dartmouth.eagle-i.net/sparqler/sparql
@@ -326,6 +324,7 @@ https://clinicaltrials.bio2rdf.org/sparql
 https://colil.dbcls.jp/sparql
 https://collection.britishmuseum.org/sparql
 https://cr.eionet.europa.eu/sparql
+https://ctd.bio2rdf.org/sparql
 https://data.bib.uni-mannheim.de/sparql
 https://data.bnf.fr/current/sparql.html
 https://data.bnf.fr/sparql
