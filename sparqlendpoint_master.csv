@@ -12,7 +12,6 @@ http://caligraph.org/sparql
 http://cau.eagle-i.net/sparqler/sparql
 http://ccny-cuny.eagle-i.net/sparqler/sparql
 http://cdrewu.eagle-i.net/sparqler/sparql
-http://core.kmi.open.ac.uk/squery
 http://crtm.linkeddata.es/sparql/
 http://ctd.bio2rdf.org/sparql
 http://ctd.bio2rdf.org/sparql/
@@ -403,6 +402,7 @@ https://xn--slovnk-7va.gov.cz/sparql
 #http://collection.britishart.yale.edu/sparql
 #http://cordis.rkbexplorer.com/sparql/
 #http://courseware.rkbexplorer.com/sparql/
+#http://core.kmi.open.ac.uk/squery
 #http://crime.rkbexplorer.com/sparql/
 #http://crm.rkbexplorer.com/sparql/
 #http://curriculum.rkbexplorer.com/sparql/
