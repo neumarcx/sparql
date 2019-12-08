@@ -35,7 +35,7 @@ http://data.hnm.hu/sparql
 http://data.legilux.public.lu/sparql
 #http://data.lider-project.eu/usage/sparql
 #http://data.linkedct.org/sparql
-http://data.linkedmdb.org/sparql
+#http://data.linkedmdb.org/sparql
 http://data.logainm.ie/sparql/
 http://data.mimo-db.eu/sparql
 http://data.nationallibrary.fi/bib/sparql
