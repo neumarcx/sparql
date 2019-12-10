@@ -96,13 +96,13 @@ http://gendr.bio2rdf.org/sparql
 http://gendr.bio2rdf.org/sparql/
 http://geo.linkeddata.es/sparql
 http://geo.linkeddata.es/sparql/
-http://geoname.linkedopendata.tw/sparql
+#http://geoname.linkedopendata.tw/sparql
 http://goa.bio2rdf.org/sparql
 http://goa.bio2rdf.org/sparql/
-http://govwild.org/sparql
-http://greek-lod.auth.gr/fire-brigade/sparql
-http://greek-lod.auth.gr/police/sparql
-http://greek-lod.math.auth.gr/kalikratis/sparql
+#http://govwild.org/sparql
+#http://greek-lod.auth.gr/fire-brigade/sparql
+#http://greek-lod.auth.gr/police/sparql
+#http://greek-lod.math.auth.gr/kalikratis/sparql
 http://harvard.eagle-i.net/sparqler/sparql
 http://hawaii.eagle-i.net/sparqler/sparql
 http://hgnc.bio2rdf.org/sparql
@@ -115,7 +115,7 @@ http://hunter-cuny.eagle-i.net/sparqler/sparql
 http://id.nlm.nih.gov/mesh/sparql
 http://id.sgcb.mcu.es/sparql
 http://id.sgcb.mcu.es/sparql/
-http://ieeevis.tw.rpi.edu/nosparql
+#http://ieeevis.tw.rpi.edu/nosparql
 http://integbio.jp/rdf/sparql
 http://interpro.bio2rdf.org/sparql
 http://interpro.bio2rdf.org/sparql/
@@ -131,8 +131,7 @@ http://kdata.kr/sparql/endpoint.jsp/
 http://kegg.bio2rdf.org/sparql/
 http://kent.zpr.fer.hr:8080/educationalProgram/sparql
 http://lab.environment.data.gov.au/sparql
-http://ld.panlex.org/sparql
-http://ld.panlex.org/sparql/
+#http://ld.panlex.org/sparql
 http://ldf.fi/folklore/sparql
 http://ldf.fi/kirjasampo/sparql
 http://ldf.fi/warsa/sparql
