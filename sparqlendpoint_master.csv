@@ -187,8 +187,7 @@ http://onto.fel.cvut.cz/rdf4j-server/repositories/ufo-current
 http://opencitations.net/index/sparql
 http://opencitations.net/sparql
 http://opendap.tw.rpi.edu/sparql
-http://opendatacommunities.org/sparql
-http://opendatacommunities.org/sparql/
+http://opendatacommunities.org/sparql.xml
 http://orphanet.bio2rdf.org/sparql
 http://orphanet.bio2rdf.org/sparql/
 http://patho.phenomebrowser.net/sparql/
