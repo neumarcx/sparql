@@ -1,82 +1,31 @@
-#Endpoint, status Sat Nov 30 01:35:16 GMT 2019
-http://acm.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
+#Endpoint, status Sat Dec 12 2019
 http://aemet.linkeddata.es/sparql, HTTP/1.1 200 OK
-https://affymetrix.bio2rdf.org/sparql, HTTP/2 200 
 http://agrovoc.uniroma2.it/sparql, HTTP/1.1 200 OK
 http://agrovoc.uniroma2.it:3030/agrovoc/sparql, HTTP/1.1 200 OK
 http://alaska.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
-http://api.kasabi.com/dataset/bricklink/apis/sparql, HTTP/1.1 200 OK
-http://api.kasabi.com/dataset/ecco-tcp-eighteenth-century-collections-online-texts/apis/sparql, HTTP/1.1 200 OK
-http://api.kasabi.com/dataset/foodista/apis/sparql, HTTP/1.1 200 OK
-http://api.kasabi.com/dataset/nasa/apis/sparql, HTTP/1.1 200 OK
-http://api.kasabi.com/dataset/pali-english-lexicon/apis/sparql, HTTP/1.1 200 OK
-http://api.kasabi.com/dataset/prelinger-archives/apis/sparql, HTTP/1.1 200 OK
-http://api.kasabi.com/dataset/renewable-energy-generators/apis/sparql, HTTP/1.1 200 OK
-http://api.kasabi.com/dataset/sanskrit-english-lexicon/apis/sparql, HTTP/1.1 200 OK
-http://api.kasabi.com/dataset/un-hazardous-material-numbers/apis/sparql, HTTP/1.1 200 OK
-http://api.kasabi.com/dataset/yahoo-geoplanet/apis/sparql, HTTP/1.1 200 OK
 http://apps.morelab.deusto.es/labman/sparql, HTTP/1.1 200 OK
-http://apps.morelab.deusto.es/labman/sparql/, HTTP/1.1 200 OK
 http://ariadne-registry.dcu.gr:8890/sparql, HTTP/1.1 200 OK
-http://aseg.cs.concordia.ca/secold/sparqlendpoint, HTTP/1.1 404 Not Found
-http://babelnet.org/sparql/, HTTP/1.1 302 Found
 http://bbc.openlinksw.com/sparql, HTTP/1.1 200 OK
-https://bio2rdf.org/sparql, HTTP/2 200 
-http://biolit.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
-https://bioportal.bio2rdf.org/sparql/, HTTP/2 200 
 http://biordf.net/sparql, HTTP/1.1 200 OK
-https://bnb.data.bl.uk:443/sparql, HTTP/2 200 
-http://budapest.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://caligraph.org/sparql, HTTP/1.1 200 OK
-http://canlink.library.ualberta.ca/sparql, HTTP/1.1 503 Service Unavailable
 http://cau.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
 http://ccny-cuny.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
 http://cdrewu.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
-http://citeseer.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
-https://clinicaltrials.bio2rdf.org/sparql, HTTP/2 200 
-http://www.colinda.org/endpoint.php, HTTP/1.1 200 OK
-http://collection.britishart.yale.edu/openrdf-sesame/repositories/ycba, HTTP/1.1 503 Service Unavailable: Back-end server is at capacity
-http://collection.britishart.yale.edu/sparql, HTTP/1.1 503 Service Unavailable: Back-end server is at capacity
-http://collection.britishart.yale.edu/sparql/, HTTP/1.1 503 Service Unavailable: Back-end server is at capacity
-http://collection.britishmuseum.org/sparql, HTTP/1.1 301 Moved Permanently
-http://collection.britishmuseum.org/Sparql, HTTP/1.1 301 Moved Permanently
-http://cordis.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
-http://core.kmi.open.ac.uk/squery, HTTP/1.1 301 Moved Permanently
-http://courseware.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
-https://cr.eionet.europa.eu/sparql, HTTP/1.1 200 
-http://crime.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
-http://crm.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://crtm.linkeddata.es/sparql/, HTTP/1.1 200 OK
-http://ctd.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
-http://ctd.bio2rdf.org/sparql/, HTTP/1.1 301 Moved Permanently
 http://cultura.linkeddata.es/sparql, HTTP/1.1 200 OK
-http://cultura.linkeddata.es/sparql/, HTTP/1.1 200 OK
-http://curriculum.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
-http://darmstadt.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
-http://dartmouth.eagle-i.net/sparqler/sparql, HTTP/1.1 302 Found
-http://data.aalto.fi/sparql/, HTTP/1.1 404 Not Found
 http://data.allie.dbcls.jp/sparql, HTTP/1.1 200 OK
-http://data.allie.dbcls.jp/sparql/, HTTP/1.1 200 OK
 http://data.americanartcollaborative.org/sparql, HTTP/1.1 200 OK
 http://data.archaeologydataservice.ac.uk/sparql/repositories/archives, HTTP/1.1 200 OK
 http://data.archiveshub.ac.uk/sparql, HTTP/1.1 200 OK
-http://data.archiveshub.ac.uk/sparql/, HTTP/1.1 404 Not found
-https://data.bib.uni-mannheim.de/sparql, HTTP/1.1 404 Not Found
 http://data.bibliotheken.nl/sparql, HTTP/1.1 200 OK
-https://data.bnf.fr/sparql, HTTP/1.1 200 OK
 http://data.cervantesvirtual.com/openrdf-sesame/repositories/data, HTTP/1.1 200 OK
 http://data.cnr.it/sparql-proxy/, HTTP/1.1 200 OK
 http://data.colinda.org/endpoint.php, HTTP/1.1 200 OK
-http://data.dive.beeldengeluid.nl/sparql/, HTTP/1.1 404 NOT FOUND
 http://data.doremus.org/sparql, HTTP/1.1 200 OK
-http://data.e-stat.go.jp/lod/sparql/, HTTP/1.1 200 OK
+http://data.e-stat.go.jp/lod/sparql/alldata/query, HTTP/1.1 200 OK
 http://data.fondazionezeri.unibo.it/sparql, HTTP/1.1 200 OK
-http://data.fundacionctic.org/sparql, HTTP/1.1 503 Service Unavailable
 http://data.hnm.hu/sparql, HTTP/1.1 200 OK
 http://data.legilux.public.lu/sparql, HTTP/1.1 200 OK
-http://data.lider-project.eu/usage/sparql, HTTP/1.1 500 Internal Server Error
-http://data.linkedct.org/sparql, HTTP/1.1 503 Service Unavailable
-http://data.linkedmdb.org/sparql, HTTP/1.1 503 Service Unavailable
 http://data.logainm.ie/sparql/, HTTP/1.1 200 OK
 http://data.mimo-db.eu/sparql, HTTP/1.1 502 Proxy Error
 http://data.nationallibrary.fi/bib/sparql, HTTP/1.1 200 OK
@@ -85,248 +34,124 @@ http://data.odw.tw/sparql, HTTP/1.1 200 OK
 http://data.open.ac.uk/query, HTTP/1.1 200 OK
 http://data.ordnancesurvey.co.uk/datasets/os-linked-data/apis/sparql, HTTP/1.1 200 OK
 http://data.ox.ac.uk/sparql/, HTTP/1.1 301 Moved Permanently
-http://data.persee.fr/explorer/sparql-endpoint/, HTTP/1.1 301 Moved Permanently
 http://data.persee.fr/sparql, HTTP/1.1 200 OK
 http://data.plan4all.eu/sparql, HTTP/1.1 200 OK
 http://data.rism.info/sparql, HTTP/1.1 200 200
-http://data.szepmuveszeti.hu/sparql, HTTP/1.1 503 Service Unavailable
-http://data.utpl.edu.ec/ecuadorresearch/lod/sparql, HTTP/1.1 404 Not Found
-http://data.utpl.edu.ec/utpl/lod/sparql, HTTP/1.1 404 Not Found
 http://dati.beniculturali.it/sparql, HTTP/1.1 200 OK
 http://dati.camera.it/sparql, HTTP/1.1 200 OK
 http://dati.senato.it/sparql, HTTP/1.1 200 OK
 http://datos.bcn.cl/sparql, HTTP/1.1 200 OK
 http://datos.bne.es/sparql, HTTP/1.1 200 OK
-http://datos.bne.es/sparql/, HTTP/1.1 200 OK
 http://dbkwik.webdatacommons.org/sparql, HTTP/1.1 200 OK
-https://dblp.l3s.de/d2r/sparql, HTTP/1.1 200 OK
-http://dblp.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://dbpedia-live.openlinksw.com/sparql, HTTP/1.1 200 OK
 http://dbpedia.org/sparql, HTTP/1.1 200 OK
-https://dbsnp.bio2rdf.org/sparql, HTTP/2 200 
-https://dbsnp.bio2rdf.org/sparql/, HTTP/2 200 
-http://dbtune.org/bbc/peel/sparql/, HTTP/1.1 200 OK
-http://dbtune.org/classical/sparql/, HTTP/1.1 200 OK
-http://dbtune.org/jamendo/sparql/, HTTP/1.1 200 OK
-http://dbtune.org/magnatune/sparql/, HTTP/1.1 200 OK
-http://dbtune.org/musicbrainz/sparql, HTTP/1.1 502 Proxy Error
-http://dbtune.org/musicbrainz/sparql/, HTTP/1.1 502 Proxy Error
-http://dbtune.org/myspace/sparql/, HTTP/1.1 404 Not Found
+http://dbtune.org/bbc/peel/sparql, HTTP/1.1 200 OK
+http://dbtune.org/classical/sparql, HTTP/1.1 200 OK
+http://dbtune.org/jamendo/sparql, HTTP/1.1 200 OK
+http://dbtune.org/magnatune/sparql, HTTP/1.1 200 OK
+http://dbtune.org/musicbrainz/sparql, HTTP/1.1 200 OK
+http://dbtune.org/myspace/sparql, HTTP/1.1 404 Not Found
 http://de.dbpedia.org/sparql, HTTP/1.1 200 OK
-http://deepblue.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://demo.openlinksw.com/sparql, HTTP/1.1 200 OK
 http://demo.openlinksw.com:8890/sparql, HTTP/1.1 404 Not Found
 http://demo.spraakdata.gu.se/ltlod/test/, HTTP/1.1 200 OK
-http://deploy.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://digital-agenda-data.eu/sparql, HTTP/1.1 200 OK
 http://digitale.bncf.firenze.sbn.it/openrdf-workbench/repositories/NS/query, HTTP/1.1 200 OK
-http://digitaleconomy.rkbexplorer.com/sparql, HTTP/1.1 301 Moved Permanently
-http://digitaleconomy.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
-http://dotac.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
-http://drugbank.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
-http://drugbank.bio2rdf.org/sparql/, HTTP/1.1 301 Moved Permanently
 http://dutchshipsandsailors.nl/data/sparql/, HTTP/1.1 301 Moved Permanently
 http://edan.si.edu/saam/sparql, HTTP/1.1 200 OK
-http://en.openei.org/sparql, HTTP/1.1 301 Moved Permanently
 http://environment.data.gov.uk/sparql/bwq/query, HTTP/1.1 200 OK
-http://environment.data.gov.uk/sparql/bwq/query/, HTTP/1.1 404 Not Found
-http://eprints.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
-http://epsrc.rkbexplorer.com/sparql, HTTP/1.1 301 Moved Permanently
-http://epsrc.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
-http://era.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://es.dbpedia.org/sparql, HTTP/1.1 200 OK
-http://es.dbpedia.org/sparql/, HTTP/1.1 200 OK
-http://eu.dbpedia.org/sparql, HTTP/1.1 301 Moved Permanently
-http://eu.dbpedia.org/sparql/, HTTP/1.1 301 Moved Permanently
-http://eurecom.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://europeana.ontotext.com/sparql, HTTP/1.1 301 Moved Permanently
 http://eurostat.linked-statistics.org/sparql, HTTP/1.1 200 OK
 http://eventmedia.eurecom.fr/sparql, HTTP/1.1 200 OK
-http://eventmedia.eurecom.fr/sparql/, HTTP/1.1 200 OK
 http://extbi.lab.aau.dk/sparql/, HTTP/1.1 200 OK
-http://factforge.net/repositories/ff-news, HTTP/1.1 200 
-http://factforge.net/sparql/, HTTP/1.1 404 
+http://factforge.net/repositories/ff-news, HTTP/1.1 200
+http://factforge.net/sparql/, HTTP/1.1 404
 http://famu.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
 http://fintrans.publicdata.eu/sparql, HTTP/1.1 301 Moved Permanently
-http://foodpedia.tk/sparql, HTTP/1.1 502 Bad Gateway
-http://foodpedia.tk/sparql/, HTTP/1.1 502 Bad Gateway
-http://foreign.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://fr.dbpedia.org/sparql, HTTP/1.1 200 OK
-http://ft.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
-http://genage.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
-http://genage.bio2rdf.org/sparql/, HTTP/1.1 301 Moved Permanently
-http://gendr.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
-http://gendr.bio2rdf.org/sparql/, HTTP/1.1 301 Moved Permanently
 http://geo.linkeddata.es/sparql, HTTP/1.1 200 OK
-http://geo.linkeddata.es/sparql/, HTTP/1.1 200 OK
-http://geoname.linkedopendata.tw/sparql, HTTP/1.1 503 Service Unavailable
-http://geosparql.demo.openlinksw.com/sparql, HTTP/1.1 301 Moved Permanently
-http://goa.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
-http://goa.bio2rdf.org/sparql/, HTTP/1.1 301 Moved Permanently
-http://govwild.org/sparql, HTTP/1.1 503 Service Temporarily Unavailable
-http://greek-lod.auth.gr/fire-brigade/sparql, HTTP/1.1 503 Service Temporarily Unavailable
-http://greek-lod.auth.gr/police/sparql, HTTP/1.1 503 Service Temporarily Unavailable
-http://greek-lod.math.auth.gr/kalikratis/sparql, HTTP/1.1 503 Service Temporarily Unavailable
 http://harvard.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
 http://hawaii.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
-http://heritagedata.org/live/sparql, HTTP/1.1 301 Moved Permanently
-http://heritagedata.org/live/sparql/, HTTP/1.1 301 Moved Permanently
-http://hgnc.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
-http://hgnc.bio2rdf.org/sparql/, HTTP/1.1 301 Moved Permanently
-http://homologene.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
-http://homologene.bio2rdf.org/sparql/, HTTP/1.1 301 Moved Permanently
 http://host.geolink.org/sparql, HTTP/1.1 200 OK
 http://howard.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
 http://hunter-cuny.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
-http://ibm.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
-http://id.ndl.go.jp/auth/ndla/, HTTP/1.0 301 Moved Permanently
-http://id.ndl.go.jp/auth/ndlsh/, HTTP/1.0 301 Moved Permanently
 http://id.nlm.nih.gov/mesh/sparql, HTTP/1.0 301 Moved Permanently
 http://id.sgcb.mcu.es/sparql, HTTP/1.1 200 OK
-http://id.sgcb.mcu.es/sparql/, HTTP/1.1 200 OK
-http://ieee.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
-http://ieeevis.tw.rpi.edu/nosparql, HTTP/1.1 503 Service Temporarily Unavailable
 http://integbio.jp/rdf/sparql, HTTP/1.1 200 OK
 http://interpro.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
-http://interpro.bio2rdf.org/sparql/, HTTP/1.1 301 Moved Permanently
 http://irefindex.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
-http://irefindex.bio2rdf.org/sparql/, HTTP/1.1 301 Moved Permanently
-http://irit.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://iserve.kmi.open.ac.uk/iserve/sparql, HTTP/1.1 404 Not Found
-http://italy.rkbexplorer.com/sparql, HTTP/1.1 301 Moved Permanently
-http://italy.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://ja.dbpedia.org/sparql, HTTP/1.1 200 OK
-http://ja.dbpedia.org/sparql/, HTTP/1.1 200 OK
-http://jisc.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://jsu.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
 http://kaiko.getalp.org/sparql, HTTP/1.1 200 OK
-http://kaiko.getalp.org/sparql/, HTTP/1.1 200 OK
-http://kasabi.com/api/sparql-endpoint-foodista, HTTP/1.1 200 OK
-http://kaunas.rkbexplorer.com/sparql, HTTP/1.1 301 Moved Permanently
-http://kaunas.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://kdata.kr/sparql/endpoint.jsp/, HTTP/1.1 400 Bad Request
 http://kegg.bio2rdf.org/sparql/, HTTP/1.1 301 Moved Permanently
 http://kent.zpr.fer.hr:8080/educationalProgram/sparql, HTTP/1.1 200 OK
-http://kisti.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
-http://laas.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://lab.environment.data.gov.au/sparql, HTTP/1.1 503 Service Unavailable
-http://ld.panlex.org/sparql, HTTP/1.1 503 Service Unavailable
-http://ld.panlex.org/sparql/, HTTP/1.1 503 Service Unavailable
-http://ldf.fi/folklore/sparql, HTTP/1.1 503 Backend fetch failed
-http://ldf.fi/kirjasampo/sparql, HTTP/1.1 503 Backend fetch failed
+http://ldf.fi/folklore/sparql, HTTP/1.1 200 OK
+http://ldf.fi/kirjasampo/sparql, HTTP/1.1 200 OK
 http://ldf.fi/warsa/sparql, HTTP/1.1 200 OK
-http://ldf.fi/ww1lod/sparql, HTTP/1.1 503 Backend fetch failed
-https://lexinfo.net/corpora/alpino/query.php, HTTP/1.1 404 Not Found
+http://ldf.fi/ww1lod/sparql, HTTP/1.1 200 OK
 http://linguistic.linkeddata.es/sparql, HTTP/1.1 200 OK
-http://linguistic.linkeddata.es/sparql/, HTTP/1.1 200 OK
 http://linked.opendata.cz/sparql, HTTP/1.1 301 Moved Permanently
-http://linked.opendata.cz/sparql/, HTTP/1.1 301 Moved Permanently
-http://linkeddata.finki.ukim.mk/sparql, HTTP/1.1 502 Bad Gateway
+http://linkeddata.econstor.eu/beta/sparql, HTTP/1.1 200 OK
 http://linkeddata.ge.imati.cnr.it:8890/sparql, HTTP/1.1 200 OK
-http://linkeddata.ge.imati.cnr.it:8890/sparql/, HTTP/1.1 200 OK
 http://linkeddata.uriburner.com/sparql, HTTP/1.1 200 OK
-http://linkeddata.uriburner.com/sparql/, HTTP/1.1 200 OK
 http://linkedgeodata.org/sparql, HTTP/1.1 200 OK
-http://linkedgeodata.org/sparql/, HTTP/1.1 200 OK
 http://linkedlifedata.com/sparql, HTTP/1.1 200 OK
-http://linkedlifedata.com/sparql/, HTTP/1.1 200 OK
-http://linkedspending.aksw.org/sparql/, HTTP/1.1 503 Service Unavailable
-http://lisbon.rkbexplorer.com/sparql, HTTP/1.1 301 Moved Permanently
-http://lisbon.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://live.dbpedia.org/sparql/, HTTP/1.1 200 OK
-http://lobid.org/sparql/, HTTP/1.1 404 Not Found
 http://lod.ac/bdls/sparql, HTTP/1.1 500 Internal Server Error
 http://lod.b3kat.de/sparql, HTTP/1.1 200 200
 http://lod.gesis.org/thesoz/sparql, HTTP/1.1 302 Found
-http://lod.kaist.ac.kr/sparql, HTTP/1.1 503 Service Temporarily Unavailable
-http://lod.kipo.kr/data/sparql, HTTP/1.1 200 OK
-http://lod.knps.or.kr/main/sparql.do, HTTP/1.1 404 
+http://lod.knps.or.kr/main/sparql.do, HTTP/1.1 404
 http://lod.nl.go.kr/sparql, HTTP/1.1 200 OK
 http://lod.openaire.eu/endpoint, HTTP/1.1 200 OK
 http://lod.openlinksw.com/sparql, HTTP/1.1 200 OK
 http://lod.sztaki.hu/sparql, HTTP/1.1 200 OK
-http://lod.sztaki.hu/sparql/, HTTP/1.1 200 OK
 http://lod.xdams.org/sparql, HTTP/1.1 200 OK
-http://lod.xdams.org/sparql/, HTTP/1.1 200 OK
 http://lofd.tw.rpi.edu/sparql, HTTP/1.1 503 Service Temporarily Unavailable
 http://logd.tw.rpi.edu/sparql, HTTP/1.1 301 Moved Permanently
-http://lov.okfn.org/dataset/lov/sparql, HTTP/1.1 301 Moved Permanently
-http://lov.okfn.org/endpoint/lov, HTTP/1.1 301 Moved Permanently
-https://lsr.bio2rdf.org/sparql, HTTP/2 200 
-http://ma-graph.org/sparql, HTTP/1.1 200 OK
-http://meducator.open.ac.uk/resourcesrestapi/rest/meducator/sparql, HTTP/1.1 404 Not Found
+http://ma-graph.org/sparql, HTTP/1.1 503 Service Unavailable
 http://meharry.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
 http://mesh.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
-http://mesh.bio2rdf.org/sparql/, HTTP/1.1 301 Moved Permanently
-http://mgi.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
-http://mgi.bio2rdf.org/sparql/, HTTP/1.1 301 Moved Permanently
-http://minsky.gsi.dit.upm.es/semanticwiki/index.php/Special:SPARQLEndpoint, HTTP/1.1 404 Not Found
-http://miuras.inf.um.es/sparql, HTTP/1.1 503 Service Temporarily Unavailable
-http://miuras.inf.um.es/sparql/, HTTP/1.1 503 Service Temporarily Unavailable
-http://mlode.nlp2rdf.org/sparql, HTTP/1.1 503 Service Temporarily Unavailable
-http://mlode.nlp2rdf.org/sparql/, HTTP/1.1 503 Service Temporarily Unavailable
 http://montana.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
 http://msm.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
-https://ncbigene.bio2rdf.org/sparql, HTTP/2 200 
-http://ndc.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
-http://ndc.bio2rdf.org/sparql/, HTTP/1.1 301 Moved Permanently
-http://neuroweb.med.yale.edu:8890/sparql,
-http://newcastle.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://nl.dbpedia.org/sparql, HTTP/1.1 200 OK
 http://nomisma.org/query, HTTP/1.1 200 OK
-http://notube.rkbexplorer.com/sparql/, HTTP/1.1 404 Not Found
-http://nsf.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
-http://oai.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://ohsu.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
 http://omim.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
-http://omim.bio2rdf.org/sparql/, HTTP/1.1 301 Moved Permanently
 http://omwn.linguistic-lod.org/sparql/, HTTP/1.1 404 Not Found
 http://onto.beef.org.pl/sparql, HTTP/1.1 200 OK
 http://onto.fel.cvut.cz/rdf4j-server/repositories/ufo-current, HTTP/1.1 200 200
 http://opencitations.net/index/sparql, HTTP/1.1 200 OK
 http://opencitations.net/sparql, HTTP/1.1 200 OK
 http://opendap.tw.rpi.edu/sparql, HTTP/1.1 301 Moved Permanently
-http://opendatacommunities.org/sparql, HTTP/1.1 200 OK
-http://opendatacommunities.org/sparql/, HTTP/1.1 200 OK
+http://opendatacommunities.org/sparql.xml, HTTP/1.1 200 OK
 http://orphanet.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
-http://orphanet.bio2rdf.org/sparql/, HTTP/1.1 301 Moved Permanently
-http://os.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://patho.phenomebrowser.net/sparql/, HTTP/1.1 200 OK
 http://pharmgkb.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
-http://pharmgkb.bio2rdf.org/sparql/, HTTP/1.1 301 Moved Permanently
-http://photos.rkbexplorer.com/sparql/, HTTP/1.1 404 Not Found
-http://pisa.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://premon.fbk.eu/sparql, HTTP/1.1 200 OK
 http://provenanceweb.org/sparql, HTTP/1.1 302 Found
 http://psm.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
 http://pt.dbpedia.org/sparql, HTTP/1.1 200 OK
-http://pt.dbpedia.org/sparql/, HTTP/1.1 200 OK
 http://publications.europa.eu/webapi/rdf/sparql, HTTP/1.1 200 OK
 http://pubmed.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
-http://pubmed.bio2rdf.org/sparql/, HTTP/1.1 301 Moved Permanently
 http://purl.org/twc/arrayexpress/virtuoso/sparql, HTTP/1.1 302 FOUND
 http://purl.org/twc/hub/sparql, HTTP/1.1 302 FOUND
 http://purl.org/weso/sparql, HTTP/1.1 302 FOUND
 http://query.wikidata.org/, HTTP/1.1 301 TLS Redirect
-http://rae2001.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://rdf.disgenet.org/sparql/, HTTP/1.1 200 OK
 http://rdf.farmbio.uu.se/chembl/sparql, HTTP/1.1 404 Not Found
 http://rdf.muninn-project.org/sparql, HTTP/1.1 200 OK
-http://rdf.muninn-project.org/sparql/, HTTP/1.1 200 OK
-http://rdf.myexperiment.org/sparql/, HTTP/1.1 503 Service Temporarily Unavailable
 http://rdf.pathwaycommons.org/sparql/, HTTP/1.1 200 OK
 http://rdfabout.com/sparql, HTTP/1.1 301 Moved Permanently
 http://registry.it.csiro.au/system/query, HTTP/1.1 200 OK
-http://resex.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://resource.geolba.ac.at/PoolParty/sparql/GeologicTimeScale, HTTP/1.1 200 OK
 http://resource.geolba.ac.at/PoolParty/sparql/GeologicUnit, HTTP/1.1 200 OK
 http://resource.geolba.ac.at/PoolParty/sparql/lithology, HTTP/1.1 200 OK
 http://resource.geolba.ac.at/PoolParty/sparql/tectonicunit, HTTP/1.1 200 OK
 http://revyu.com/sparql, HTTP/1.1 200 OK
-http://risks.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
-http://roma.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
-http://roni.rkbexplorer.com/sparql, HTTP/1.1 301 Moved Permanently
-http://semantic.eea.europa.eu/sparql, HTTP/1.1 301 Moved Permanently
 http://semanticweb.cs.vu.nl/dss/sparql/, HTTP/1.1 302 Moved Temporarily
 http://semanticweb.cs.vu.nl/iati/sparql/, HTTP/1.1 302 Moved Temporarily
 http://semanticweb.cs.vu.nl/verrijktkoninkrijk/sparql/, HTTP/1.1 302 Moved Temporarily
@@ -337,7 +162,6 @@ http://sgd.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
 http://sider.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
 http://smartlink.open.ac.uk/smartlink/sparql, HTTP/1.1 404 Not Found
 http://soa4all.isoco.net/luf/sparql, HTTP/1.1 200 OK
-http://southampton.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://sparql.archives-ouvertes.fr/sparql, HTTP/1.1 200 OK
 http://sparql.bioontology.org/, HTTP/1.1 200 OK
 http://sparql.contextdatacloud.org, HTTP/1.1 400 Bad Request
@@ -349,7 +173,6 @@ http://sparql.kpath.khaos.uma.es/, HTTP/1.1 503 Service Temporarily Unavailable
 http://sparql.kupkb.org/sparql, HTTP/1.1 200 OK
 http://sparql.lynx-project.eu/, HTTP/1.1 200 OK
 http://sparql.odw.tw, HTTP/1.1 200 OK
-http://sparql.odw.tw/, HTTP/1.1 200 OK
 http://sparql.openmobilenetwork.org, HTTP/1.1 400 Bad Request
 http://sparql.reegle.info/, HTTP/1.1 200 OK
 http://sparql.sindice.com/sparql, HTTP/1.1 301 Moved Permanently
@@ -368,33 +191,32 @@ http://telegraphis.net/data/countries/sparql, HTTP/1.1 500 Internal Server Error
 http://tsu.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
 http://tuskegee.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
 http://uccaribe.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
-http://ulm.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
-http://unlocode.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://upr.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
 http://uriburner.com/sparql, HTTP/1.1 200 OK
 http://utep.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
 http://utsa.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
-http://virtuoso-eurosentiment.paradigmatecnologico.com/sparql, HTTP/1.1 503 Service Temporarily Unavailable
 http://vocab.getty.edu/sparql, HTTP/1.1 200 OK
 http://vocab.nerc.ac.uk/sparql/, HTTP/1.1 200 OK
 http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for, HTTP/1.1 200 OK
-http://vocabs.ands.org.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_2018, HTTP/1.1 200 OK
+http://vocabs.ands.org.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_201 HTTP/1.1 200 OK
 http://vocabs.ands.org.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_2018-revised-corrected, HTTP/1.1 200 OK
 http://vocabs.ands.org.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_international-chronostratigraphic-chart, HTTP/1.1 404 Not Found
-http://vocabs.ands.org.au/repository/api/sparql/ga_geologic-unit-type_v0-1, HTTP/1.1 200 OK
+http://vocabs.ands.org.au/repository/api/sparql/ga_geologic-unit-type_v0- HTTP/1.1 200 OK
 http://vocabulary.curriculum.edu.au/PoolParty/sparql/scot, HTTP/1.1 200 OK
 http://vocabulary.semantic-web.at/PoolParty/sparql/AustrianSkiTeam, HTTP/1.1 200 OK
 http://vocabulary.semantic-web.at/PoolParty/sparql/OpenData, HTTP/1.1 200 OK
 http://vocabulary.semantic-web.at/PoolParty/sparql/semweb, HTTP/1.1 200 OK
-http://webconf.rkbexplorer.com/sparql, HTTP/1.1 301 Moved Permanently
 http://webenemasuno.linkeddata.es/sparql, HTTP/1.1 200 OK
 http://webisa.webdatacommons.org/sparql, HTTP/1.1 200 OK
-http://webscience.rkbexplorer.com/sparql, HTTP/1.1 301 Moved Permanently
-http://wiki.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
+http://wifo5-03.informatik.uni-mannheim.de/dblp/sparql, HTTP/1.1 404 Not Found
+http://wifo5-03.informatik.uni-mannheim.de/drugbank/sparql, HTTP/1.1 200 OK
+http://wifo5-03.informatik.uni-mannheim.de/eccompetition/sparql, HTTP/1.1 503 Service Unavailable
+http://wifo5-03.informatik.uni-mannheim.de/euraxess/sparql, HTTP/1.1 404 Not Found
+http://wifo5-03.informatik.uni-mannheim.de/eures/sparql, HTTP/1.1 404 Not Found
 http://wikidata.demo.openlinksw.com/sparql, HTTP/1.1 301 Moved Permanently
-http://wordnet.rkbexplorer.com/sparql/, HTTP/1.1 200 OK
 http://wormbase.bio2rdf.org/sparql, HTTP/1.1 301 Moved Permanently
 http://www.archivesdefrance.culture.gouv.fr/thesaurus/sparql, HTTP/1.1 301 Moved Permanently
+http://www.colinda.org/endpoint.php, HTTP/1.1 200 OK
 http://www.ebi.ac.uk/rdf/services/atlas/sparql, HTTP/1.1 301 Moved Permanently
 http://www.eclap.eu/sparql, HTTP/1.1 503 Service Temporarily Unavailable
 http://www.genome.jp/sparql/linkdb, HTTP/1.0 301 Moved Permanently
@@ -406,92 +228,91 @@ http://www.lotico.com:3030/lotico/sparql, HTTP/1.1 200 OK
 http://www.rdfabout.com/sparql, HTTP/1.1 301 Moved Permanently
 http://www.rechercheisidore.fr/sparql/, HTTP/1.1 301 Moved Permanently
 http://www.scholarlydata.org/sparql, HTTP/1.1 301 Moved Permanently
-http://wifo5-03.informatik.uni-mannheim.de/cordis/sparql, HTTP/1.1 503 Service Unavailable
-http://wifo5-03.informatik.uni-mannheim.de/dailymed/sparql, HTTP/1.1 503 Service Unavailable
-http://wifo5-03.informatik.uni-mannheim.de/dblp/sparql, HTTP/1.1 404 Not Found
-http://wifo5-03.informatik.uni-mannheim.de/diseasome/sparql, HTTP/1.1 503 Service Unavailable
-http://wifo5-03.informatik.uni-mannheim.de/drugbank/sparql, HTTP/1.1 200 OK
-http://wifo5-03.informatik.uni-mannheim.de/eccompetition/sparql, HTTP/1.1 503 Service Unavailable
-http://wifo5-03.informatik.uni-mannheim.de/euraxess/sparql, HTTP/1.1 404 Not Found
-http://wifo5-03.informatik.uni-mannheim.de/eures/sparql, HTTP/1.1 404 Not Found
-http://wifo5-03.informatik.uni-mannheim.de/eurostat/sparql, HTTP/1.1 503 Service Unavailable
-http://wifo5-03.informatik.uni-mannheim.de/factbook/sparql, HTTP/1.1 503 Service Unavailable
-http://wifo5-03.informatik.uni-mannheim.de/gutendata/sparql, HTTP/1.1 503 Service Unavailable
-http://wifo5-03.informatik.uni-mannheim.de/medicare/sparql, HTTP/1.1 503 Service Unavailable
-http://wifo5-03.informatik.uni-mannheim.de/sider/sparql, HTTP/1.1 503 Service Unavailable
-http://wifo5-03.informatik.uni-mannheim.de/stitch/sparql, HTTP/1.1 503 Service Unavailable
 http://xula.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
+http://zbw.eu/beta/sparql/econ_corp/query, HTTP/1.1 200 OK
+http://zbw.eu/beta/sparql/econ_pers/query, HTTP/1.1 200 OK
 http://zbw.eu/beta/sparql/gnd/query, HTTP/1.1 200 OK
 http://zbw.eu/beta/sparql/stw/query, HTTP/1.1 200 OK
 http://zhishi.me/sparql, HTTP/1.1 200 OK
-https://3cixty.eurecom.fr/sparql, HTTP/1.1 404 
-https://api.aucklandmuseum.com/sparql, HTTP/2 200 
+https://3cixty.eurecom.fr/sparql, HTTP/1.1 404
+https://affymetrix.bio2rdf.org/sparql, HTTP/2 200
+https://api.aucklandmuseum.com/sparql, HTTP/2 200
 https://api.nextprot.org/sparql, HTTP/1.1 200 OK
 https://api.parliament.uk/sparql, HTTP/1.1 200 OK
 https://babelnet.org/sparql/, HTTP/1.1 200 OK
-https://bmrbpub.pdbj.org/search/rdf, HTTP/1.1 503 Service Temporarily Unavailable
+https://bio2rdf.org/sparql, HTTP/2 200
+https://bioportal.bio2rdf.org/sparql/, HTTP/2 200
+https://bmrbpub.pdbj.org/search/rdf, HTTP/1.1 200 OK
+https://bnb.data.bl.uk/sparql, HTTP/2 200
+https://clinicaltrials.bio2rdf.org/sparql, HTTP/2 200
 https://colil.dbcls.jp/sparql, HTTP/1.1 200 OK
+https://cr.eionet.europa.eu/sparql, HTTP/1.1 200
+https://ctd.bio2rdf.org/sparql, HTTP/2 200
+https://data.bib.uni-mannheim.de/sparql, HTTP/1.1 404 Not Found
 https://data.bnf.fr/current/sparql.html, HTTP/1.1 200 OK
+https://data.bnf.fr/sparql, HTTP/1.1 200 OK
 https://data.cssz.cz/sparql, HTTP/1.1 200 OK
 https://data.epo.org/linked-data/sparql, HTTP/1.1 404 Not Found
 https://data.gesis.org/claimskg/sparql, HTTP/1.1 200 OK
-https://data.gov.cz/sparql, HTTP/2 200 
+https://data.gov.cz/sparql, HTTP/2 200
 https://data.idref.fr/endpoint.html, HTTP/1.1 200 OK
 https://data.idref.fr/sparql, HTTP/1.1 200 OK
-https://data.pdok.nl/sparql, HTTP/1.1 200 
+https://data.pdok.nl/sparql, HTTP/1.1 200
 https://datos-abertos.galiciana.gal/pt/sparql, HTTP/1.1 200 OK
 https://datos.gob.es/en/sparql, HTTP/1.1 200 OK
-https://dbmi-icode-01.dbmi.pitt.edu/dikb/sparql, HTTP/1.1 404 Not Found
-https://edh-www.adw.uni-heidelberg.de/data/sparql, HTTP/1.1 200 OK
-https://go3.opendata.u-psud.fr/sparql, HTTP/1.1 200 OK
-https://hdt.lod.labs.vu.nl/?g=LOD-a-lot, HTTP/1.1 502 Bad Gateway
+https://dblp.l3s.de/d2r/sparql,
+https://dbsnp.bio2rdf.org/sparql, HTTP/2 200
+https://drugbank.bio2rdf.org/sparql, HTTP/2 200
+https://ebi.identifiers.org/services/sparql, HTTP/1.1 200 OK
+https://en.openei.org/sparql, HTTP/1.1 301 Moved Permanently
+https://eu.dbpedia.org/sparql, HTTP/1.1 200 OK
+https://genage.bio2rdf.org/sparql, HTTP/2 200
+https://gendr.bio2rdf.org/sparql, HTTP/2 200
+https://geosparql.demo.openlinksw.com/sparql, HTTP/2 200
+https://goa.bio2rdf.org/sparql, HTTP/2 200
+https://heritagedata.org/live/sparql, HTTP/1.1 200 OK
+https://hgnc.bio2rdf.org/sparql, HTTP/2 200
+https://homologene.bio2rdf.org/sparql, HTTP/2 200
 https://hub-rnsr.idref.fr/sparql, HTTP/1.1 200 OK
-https://id.ndl.go.jp/auth/ndla/sparql, HTTP/1.1 200 OK
-https://identifiers.org/services/sparql, HTTP/2 400 
+https://id.ndl.go.jp/auth/ndla/, HTTP/1.1 200 OK
+https://id.ndl.go.jp/auth/ndlsh/, HTTP/1.1 200 OK
 https://idsm.elixir-czech.cz/sparql/endpoint/idsm, HTTP/1.1 200 200
 https://io.datascience-paris-saclay.fr/sparql, HTTP/1.1 200 OK
-https://isidore.science/sparql, HTTP/2 200 
-https://joinup.ec.europa.eu/sparql/, HTTP/2 200 
+https://isidore.science/sparql, HTTP/2 200
+https://joinup.ec.europa.eu/sparql/, HTTP/2 200
 https://jpsearch.go.jp/rdf/sparql, HTTP/1.1 200 OK
-https://landportal.org/sparql, HTTP/2 200 
-https://landportal.org/sparql#this, HTTP/2 404 
-https://ldf.fi/mufi/sparql, HTTP/1.1 503 Backend fetch failed
-https://lindas-data.ch/sparql-ui/, HTTP/2 302 
-https://linked.opendata.cz/sparql, HTTP/2 200 
-https://linkeddata1.calcul.u-psud.fr/sparql, HTTP/1.1 200 OK
+https://landportal.org/sparql, HTTP/2 200
+https://ldf.fi/mufi/sparql, HTTP/1.1 200 OK
+https://lindas-data.ch/sparql, HTTP/2 200
+https://linked.opendata.cz/sparql, HTTP/2 200
 https://lod.abes.fr/sparql, HTTP/1.1 200 OK
 https://lov.linkeddata.es/dataset/lov/sparql, HTTP/1.1 200 OK
+https://lsr.bio2rdf.org/sparql, HTTP/2 200
+https://mgi.bio2rdf.org/sparql, HTTP/2 200
+https://ncbigene.bio2rdf.org/sparql, HTTP/2 200
+https://ndc.bio2rdf.org/sparql, HTTP/2 200
+https://op.europa.eu/en/advanced-sparql-query-editor, HTTP/2 200
 https://opendata.aragon.es/sparql, HTTP/1.1 200 OK
 https://opendata1.opendata.u-psud.fr/sparql, HTTP/1.1 200 OK
-https://opendata1.opendata.u-psud.fr/sparql/, HTTP/1.1 200 OK
 https://openpark.jp/sparql, HTTP/1.1 200 OK
-https://publications.europa.eu/en/advanced-sparql-query-editor, HTTP/1.1 301 Moved Permanently
-https://query.wikidata.org/sparql, HTTP/2 200 
-https://rdf.insee.fr/sparql, HTTP/1.1 200 
+https://query.wikidata.org/sparql, HTTP/2 200
+https://rdf.insee.fr/sparql, HTTP/1.1 200
 https://rdf.metanetx.org/sparql, HTTP/1.1 200 OK
-https://ruian.linked.opendata.cz/sparql, HTTP/2 200 
-https://semantic.eea.europa.eu/sparql, HTTP/1.1 200 
-https://slovník.gov.cz/sparql, HTTP/2 200 
-https://sophox.org/, HTTP/2 200 
-https://sophox.org/sparql, HTTP/2 200 
+https://ruian.linked.opendata.cz/sparql, HTTP/2 200
+https://semantic.eea.europa.eu/sparql, HTTP/1.1 200
+https://sophox.org/sparql, HTTP/2 200
 https://sparql.crssnky.xyz/spql/imas/query, HTTP/1.1 200 OK
 https://sparql.dl.itc.u-tokyo.ac.jp/, HTTP/1.1 200 OK
-https://sparql.geo.admin.ch/sparql, HTTP/2 200 
+https://sparql.geo.admin.ch/sparql, HTTP/2 200
 https://sparql.lri.fr/sparql, HTTP/1.1 200 OK
 https://sparql.nextprot.org/, HTTP/1.1 200 OK
 https://sparql.omabrowser.org/sparql, HTTP/1.1 200 OK
-https://sparql.orthodb.org/sparql, HTTP/1.1 502 Bad Gateway
+https://sparql.orthodb.org/sparql, HTTP/1.1 200 OK
 https://sparql.rhea-db.org/sparql, HTTP/1.1 200 OK
-https://sparql.uniprot.org/sparql, HTTP/1.1 200 
-https://tora.entryscape.net/snorql, HTTP/1.1 301 Moved Permanently
-https://vocab.nerc.ac.uk/sparql/, HTTP/1.1 200 OK
-https://vocabs.ands.org.au/repository/api/sparql/, HTTP/1.1 500 Internal Server Error
-https://www.ebi.ac.uk/rdf/services/biomodels/sparql, HTTP/1.1 301 Moved Permanently
-https://www.ebi.ac.uk/rdf/services/biosamples/sparql, HTTP/1.1 404 Not Found
-https://www.ebi.ac.uk/rdf/services/chembl/sparql, HTTP/1.1 301 Moved Permanently
-https://www.ebi.ac.uk/rdf/services/reactome/sparql, HTTP/1.1 301 Moved Permanently
+https://sparql.uniprot.org/sparql, HTTP/1.1 200
+https://vocab.nerc.ac.uk/sparql/sparql, HTTP/1.1 200 OK
 https://www.ebi.ac.uk/rdf/services/sparql, HTTP/1.1 200 OK
 https://www.europeandataportal.eu/sparql, HTTP/1.1 200 OK
-https://www.foodie-cloud.org/sparql, HTTP/1.1 200 OK
 https://www.nakala.fr/sparql, HTTP/1.1 200 OK
 https://www.orpha.net/sparql, HTTP/1.1 200 OK
+https://xn--slovnk-7va.gov.cz/sparql, HTTP/2 200
