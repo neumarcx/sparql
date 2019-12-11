@@ -198,7 +198,7 @@ http://utsa.eagle-i.net/sparqler/sparql, HTTP/1.1 200 OK
 http://vocab.getty.edu/sparql, HTTP/1.1 200 OK
 http://vocab.nerc.ac.uk/sparql/, HTTP/1.1 200 OK
 http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for, HTTP/1.1 200 OK
-http://vocabs.ands.org.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_201 HTTP/1.1 200 OK
+http://vocabs.ands.org.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_2018, HTTP/1.1 200 OK
 http://vocabs.ands.org.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_2018-revised-corrected, HTTP/1.1 200 OK
 http://vocabs.ands.org.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_international-chronostratigraphic-chart, HTTP/1.1 404 Not Found
 http://vocabs.ands.org.au/repository/api/sparql/ga_geologic-unit-type_v0- HTTP/1.1 200 OK
