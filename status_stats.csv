@@ -13,7 +13,6 @@
       2 HTTP/1.1 500 Internal Server Error
       2 HTTP/1.1 302 Found
       2 HTTP/1.0 301 Moved Permanently
-      2
       1 HTTP/1.1 502 Proxy Error
       1 HTTP/1.1 302 Found : Moved Temporarily
       1 HTTP/1.1 301 TLS Redirect
