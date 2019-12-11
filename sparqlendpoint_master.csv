@@ -332,7 +332,7 @@ https://data.pdok.nl/sparql
 https://datos-abertos.galiciana.gal/pt/sparql
 https://datos.gob.es/en/sparql
 https://dblp.l3s.de/d2r/sparql
-https://dbmi-icode-01.dbmi.pitt.edu/dikb/sparql
+#https://dbmi-icode-01.dbmi.pitt.edu/dikb/sparql
 https://dbsnp.bio2rdf.org/sparql
 https://dbsnp.bio2rdf.org/sparql/
 https://ebi.identifiers.org/services/sparql
