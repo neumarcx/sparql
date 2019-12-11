@@ -201,7 +201,7 @@ http://vocabs.ands.org.au/repository/api/sparql/anzsrc-for, HTTP/1.1 200 OK
 http://vocabs.ands.org.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_2018, HTTP/1.1 200 OK
 http://vocabs.ands.org.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_2018-revised-corrected, HTTP/1.1 200 OK
 http://vocabs.ands.org.au/repository/api/sparql/csiro_international-chronostratigraphic-chart_international-chronostratigraphic-chart, HTTP/1.1 404 Not Found
-http://vocabs.ands.org.au/repository/api/sparql/ga_geologic-unit-type_v0- HTTP/1.1 200 OK
+http://vocabs.ands.org.au/repository/api/sparql/ga_geologic-unit-type_v0-, HTTP/1.1 200 OK
 http://vocabulary.curriculum.edu.au/PoolParty/sparql/scot, HTTP/1.1 200 OK
 http://vocabulary.semantic-web.at/PoolParty/sparql/AustrianSkiTeam, HTTP/1.1 200 OK
 http://vocabulary.semantic-web.at/PoolParty/sparql/OpenData, HTTP/1.1 200 OK
