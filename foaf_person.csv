@@ -1,4 +1,4 @@
-#Endpoint, "FOAF.Person with a total count 193,305,185"
+#Endpoint CPU time 21s, "FOAF.Person with a total count 193,305,185"
 http://bbc.openlinksw.com/sparql,72545185
 http://lod.openlinksw.com/sparql,72545185
 https://geosparql.demo.openlinksw.com/sparql,14108333
