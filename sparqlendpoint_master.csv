@@ -140,7 +140,7 @@ http://pubmed.bio2rdf.org/sparql
 http://purl.org/twc/arrayexpress/virtuoso/sparql
 http://purl.org/twc/hub/sparql
 http://purl.org/weso/sparql
-http://query.wikidata.org/
+https://query.wikidata.org/
 http://rdf.disgenet.org/sparql/
 http://rdf.farmbio.uu.se/chembl/sparql
 http://rdf.muninn-project.org/sparql
