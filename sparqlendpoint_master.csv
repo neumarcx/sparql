@@ -20,7 +20,7 @@ http://data.archiveshub.ac.uk/sparql
 http://data.bibliotheken.nl/sparql
 http://data.cervantesvirtual.com/openrdf-sesame/repositories/data
 http://data.cnr.it/sparql-proxy/
-http://data.colinda.org/endpoint.php
+#http://data.colinda.org/endpoint.php
 http://data.doremus.org/sparql
 http://data.e-stat.go.jp/lod/sparql/alldata/query
 http://data.fondazionezeri.unibo.it/sparql
