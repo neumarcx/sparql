@@ -216,7 +216,7 @@ http://wifo5-03.informatik.uni-mannheim.de/eures/sparql
 http://wikidata.demo.openlinksw.com/sparql
 http://wormbase.bio2rdf.org/sparql
 http://www.archivesdefrance.culture.gouv.fr/thesaurus/sparql
-http://www.colinda.org/endpoint.php
+#http://www.colinda.org/endpoint.php
 http://www.ebi.ac.uk/rdf/services/atlas/sparql
 http://www.eclap.eu/sparql
 http://www.genome.jp/sparql/linkdb
