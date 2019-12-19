@@ -1,4 +1,4 @@
-#endpoint runtime CPU 5m 2s, "Triple count 12/19/19  total of 146,521,226,177 triples sorted by size"
+#endpoint runtime CPU 5m 2s, "Triple count 12/19/19  total of 146,566,113,436 triples sorted by size"
 http://lod.openlinksw.com/sparql,29093849822
 http://bbc.openlinksw.com/sparql,29093849773
 http://www.genome.jp/sparql/linkdb,11424742384
@@ -70,6 +70,7 @@ http://rdf.disgenet.org/sparql/,52211463
 http://lod.sztaki.hu/sparql,48378455
 https://lindas-data.ch/sparql,48278111
 http://datos.bcn.cl/sparql,43666828
+http://data.persee.fr/sparql,42406274
 https://rdf.metanetx.org/sparql,40120951
 http://rdf.muninn-project.org/sparql,38901614
 http://extbi.lab.aau.dk/sparql/,32463771
@@ -108,6 +109,7 @@ https://sparql.rhea-db.org/sparql,3009379
 https://opendata1.opendata.u-psud.fr/sparql,2939333
 http://edan.si.edu/saam/sparql,2540509
 https://semanticweb.cs.vu.nl/verrijktkoninkrijk/sparql/,2487022
+http://demo.openlinksw.com/sparql,2480985
 https://www.orpha.net/sparql,2296871
 http://ariadne-registry.dcu.gr:8890/sparql,2210644
 http://patho.phenomebrowser.net/sparql/,2152420
@@ -182,3 +184,4 @@ http://resource.geolba.ac.at/PoolParty/sparql/GeologicTimeScale,7048
 http://vocabulary.semantic-web.at/PoolParty/sparql/OpenData,3447
 http://onto.fel.cvut.cz/rdf4j-server/repositories/ufo-current,2507
 http://vocabs.ands.org.au/repository/api/sparql/ga_geologic-unit-type_v0-1,421
+
