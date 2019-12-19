@@ -1,4 +1,4 @@
-#endpoint runtime CPU 5m 2s, "Triple count 12/19/19  total of 146,566,113,436 triples sorted by size"
+#endpoint (count runtime CPU 2m 41s), "Triple count 12/19/19  total of 146,566,113,436 triples sorted by size"
 http://lod.openlinksw.com/sparql,29093849822
 http://bbc.openlinksw.com/sparql,29093849773
 http://www.genome.jp/sparql/linkdb,11424742384
