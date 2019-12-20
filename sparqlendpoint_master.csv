@@ -1,7 +1,6 @@
 #SPARQL endpoints
 http://aemet.linkeddata.es/sparql
 http://agrovoc.uniroma2.it/sparql
-http://agrovoc.uniroma2.it:3030/agrovoc/sparql
 http://alaska.eagle-i.net/sparqler/sparql
 http://apps.morelab.deusto.es/labman/sparql
 http://ariadne-registry.dcu.gr:8890/sparql
