@@ -168,7 +168,7 @@ http://sparql.contextdatacloud.org
 http://sparql.cwrc.ca/sparql
 http://sparql.data.southampton.ac.uk/
 http://sparql.datao.net/sparql
-http://sparql.europeana.eu/
+http://sparql.europeana.eu/?default-graph-uri=http%3A%2F%2Fdata.europeana.eu%2F&
 http://sparql.kpath.khaos.uma.es/
 http://sparql.kupkb.org/sparql
 http://sparql.lynx-project.eu/
